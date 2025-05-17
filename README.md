@@ -47,6 +47,21 @@ inverter.py         # Classes for ProteinGenerator, PoPSRegulator, and Inverter
 ring_oscillator.py  # Chains inverters into a functional oscillator
 ```
 
+## 📊 Sample Output
+```
+Input Signal : 70 PoPS
+Output Signal : 0.0689 PoPS
+
+Repressor Protein : 1014.49
+
+Output : 0.0689
+Output : 35.0172
+Output : 0.1376
+Output : 23.3716
+...
+```
+
+
 ## 📌 Notes
 
 - Simulation assumes steady-state protein production unless otherwise specified.
